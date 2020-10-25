@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/CA-bootcamp-s19/supply-chain-exercise-RohitGupta027.svg?branch=ConsenSys-Academy-patch-1)](https://travis-ci.org/CA-bootcamp-s19/supply-chain-exercise-RohitGupta027)
+
 # Supply Chain Exercise
 
 The Supply Chain directory is a truffle project that contains the required contract, migration and test files. In this exercise you are going to implement the SupplyChain.sol contract and write some tests in Solidity.
